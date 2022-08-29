@@ -5,10 +5,11 @@
 <h3 >What does the API return?</h3>
 <p >The API is a <b>PUBLIC API</b> that returns information from articles and publications on certain subjects chosen by us, in this project the subject of the articles that I will be requesting in the API refers to Big Data and Data Quality.</p>
 
-<h3><a href="https://github.com/jonatahs/pythonApiDataConsumer/blob/main/pythonApiConsumer.ipynb">Click here to view the code</a></h3>
+<h3>👉<a href="https://github.com/jonatahs/pythonApiDataConsumer/blob/main/pythonApiConsumer.ipynb">Click here to view the code</a>👈</h3>
 
 <hr>
 <h4 >Developed by Jonathan Silva Sales de Oliveira</h4>
+My Social Networks 😉: 
 <ul >
   <li >Personal Page : https://jonatahs.github.io/</li>
   <li>Linkedin : https://www.linkedin.com/in/jonathansilvasales/</li>
