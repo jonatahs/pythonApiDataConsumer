@@ -1,5 +1,5 @@
 <h1 > Python API Data Consumer</h1>
-<p >Project made in Python to consume data from the IEEE API.</p>
+<p >Project made in OOP Python to consume data from the IEEE API.</p>
 <h3 >What is the IEEE?</h3>
 <p >The IEEE is a scientific community that seeks to innovate and inform the community through publications, conferences and scientific articles focused on technology, the IEEE today is a reliable "voice" for information in these areas.</p>
 <h3 >What does the API return?</h3>
